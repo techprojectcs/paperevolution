@@ -1,3 +1,4 @@
+--prefer-binary
 absl-py
 accelerate
 aiofiles
