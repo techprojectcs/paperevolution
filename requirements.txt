@@ -285,7 +285,6 @@ pytz==2022.7.1
 pywebostv==0.8.9
 pywhatkit==5.4
 pywifi-controls==0.8
-pywin32==308
 pywin32-ctypes==0.2.3
 pywslocker==0.5
 PyYAML==6.0.2
